@@ -7,3 +7,7 @@
   * discussioni dello strumentario tecnico necessario alla composizione:
     * estrazione di formanti:
       * `LTAS` (*Long-term Averaging Spectrum*) (?)
+
+## Lavagne
+
+![whiteboard 1](./BN_I_Malcangi_2020-02-04_18.23.37_1.jpg)
